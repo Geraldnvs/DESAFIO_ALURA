@@ -8,3 +8,23 @@ O objetivo principal é explorar as capacidades da Gemini API para criar um chat
 Este repositório inclui notebooks Jupyter detalhando cada etapa do desenvolvimento do chatbot, desde a concepção inicial até a implementação final. Além disso, discutiremos as regras da competição, os critérios de avaliação e como a premiação funciona, para que todos possam entender o que é necessário para criar um projeto vencedor.
 
 Fique à vontade para explorar, contribuir e aprender mais sobre o poder da inteligência artificial através deste desafio empolgante!
+
+###A Sombra sobre Valdar
+
+Bem-vindos, aventureiros, à terra sombria de Valdar!
+Neste jogo, vocês se tornarão heróis, explorando um mundo mergulhado em mistério e perigo. A sombra de Morrigan, uma feiticeira poderosa e malévola, paira sobre a terra, e seus cultistas semeiam o caos e a desgraça. Cabe a vocês desvendar os planos de Morrigan, enfrentar seus lacaios e, quem sabe, salvar Valdar da ruína.
+O Jogo:
+"A Sombra sobre Valdar" utiliza as regras de Dungeons & Dragons, um sistema de RPG de mesa onde a imaginação é o limite. Através de dados e da minha narração, daremos vida a este mundo.
+Como funciona?
+Criação de Personagens: Vocês criarão seus heróis, escolhendo raça, classe e habilidades especiais. Imaginem guerreiros destemidos, magos astutos, ladinos furtivos, clérigos devotos... as possibilidades são vastas!
+Narrativa e Exploração: Eu, como Mestre do Jogo, guiarei vocês por Valdar, descrevendo cenários, NPCs (personagens não jogáveis) e os desafios que surgirão. Vocês farão escolhas que determinarão o curso da aventura.
+Combate: Quando a diplomacia falha, o aço e a magia falam! Usaremos dados para definir o sucesso de seus ataques, defesas e habilidades especiais. As batalhas serão emocionantes e desafiadoras!
+Progressão: A cada desafio superado, seus personagens evoluirão, aprendendo novas habilidades e se tornando mais poderosos.
+Possibilidades:
+Em Valdar, vocês podem:
+Explorar: Florestas ancestrais, cidades vibrantes, masmorras sinistras e ruínas esquecidas aguardam por bravos exploradores.
+Interagir: Conversem com NPCs, formem alianças, enfrentem inimigos astutos e desvendem segredos obscuros.
+Combater: Enfrentem bestas ferozes, cultistas fanáticos e as forças sombrias de Morrigan em batalhas épicas!
+Desvendar Mistérios: Coletem pistas, resolvam enigmas e desvendem os planos malignos que ameaçam Valdar.
+O Destino de Valdar está em suas mãos!
+Preparem-se para a aventura, pois em breve, a sombra se erguerá sobre Valdar!
