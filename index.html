@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="icon" type="image/x-icon" href="/image/favicon.ico" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container text-primary">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="calculator-body text-center">
+                    <h3><i class="fa-solid fa-calculator"></i> Calculadora</h3>
+                    <div class="row mb-3 align-items-center">
+                        <div class="col-2">Valor 1</div>
+                        <div class="col-8">
+                            <input type="text" class="form-control" placeholder="0.00" id="value1">
+                        </div>
+                        <div class="col-2">
+                            <button type="button" class="btn btn-primary btn-block" id="clearButton">Clear</button>
+                        </div>
+                    </div>
+                    <div class="row mb-3 align-items-center">
+                        <div class="col-2">Valor 2</div>
+                        <div class="col-8">
+                            <input type="text" class="form-control" placeholder="0.00" id="value2">
+                        </div>
+                        <div class="col-2"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <button type="button" class="btn btn-primary btn-block" id="addButton">
+                                <i class="fas fa-plus"></i>
+                            </button>
+                        </div>
+                        <div class="col">
+                            <button type="button" class="btn btn-primary btn-block" id="subtractButton">
+                                <i class="fas fa-minus"></i>
+                            </button>
+                        </div>
+                        <div class="col">
+                            <button type="button" class="btn btn-primary btn-block" id="multiplyButton">
+                                <i class="fas fa-times"></i>
+                            </button>
+                        </div>
+                        <div class="col">
+                            <button type="button" class="btn btn-primary btn-block" id="divideButton">
+                                <i class="fas fa-divide"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="row mt-3 align-items-center">
+                        <div class="col-2">Resultado</div>
+                        <div class="col-8">
+                            <input type="text" class="form-control" placeholder="Resultado" readonly id="result">
+                        </div>
+                        <div class="col-2"></div>
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-12">
+                            <h4>Histórico</h4>
+                            <ul id="historyList"></ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script/script.js"></script> </body>
+</html>
